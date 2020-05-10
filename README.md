@@ -1,5 +1,4 @@
-# sad-april-k-2372-1855-shivamsharma2503
-sad-april-k-2372-1855-shivamsharma2503 created by GitHub Classroom
+
 
 # Description - 
 I worked on a project MIA Blog which is a Blog post for the people who are new in the city of Mannheim or want to join the community to learn more about Indian culture. It is plain blogpost where user can signup and post the content they like. 
